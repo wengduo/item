@@ -1,0 +1,67 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+Adjust_Breh	b++.cpp	/^void Adjust_Breh(BPTree *ptree,BPNode *ptr)$/;"	f
+Adjust_Leaf	b++.cpp	/^void Adjust_Leaf(BPTree *ptree,BPNode *ptr)$/;"	f
+BPNode	b++.cpp	/^typedef struct BPNode$/;"	s	file:
+BPNode	b++.cpp	/^}BPNode;$/;"	t	typeref:struct:BPNode	file:
+BPTree	b++.cpp	/^}BPTree;$/;"	t	typeref:struct:__anon5	file:
+BRCH	b++.cpp	/^typedef enum{LEAF = 0,BRCH = 1} NodeType;$/;"	e	enum:__anon1	file:
+BRCHMAX	b++.cpp	20;"	d	file:
+BRCHMIN	b++.cpp	21;"	d	file:
+Brch_Left_Rotate	b++.cpp	/^void Brch_Left_Rotate(BPNode *rightbro,BPNode *ptr,$/;"	f
+Brch_Merge_Left	b++.cpp	/^void Brch_Merge_Left(BPNode *leftbro,BPNode *ptr,$/;"	f
+Brch_Right_Rotate	b++.cpp	/^void Brch_Right_Rotate(BPNode *leftbro,BPNode *ptr,$/;"	f
+Del_Brch_Item	b++.cpp	/^void Del_Brch_Item(BPNode *ptr,int pos)$/;"	f
+Delete_Adjust_Breh	b++.cpp	/^void Delete_Adjust_Breh(BPTree *ptree,BPNode *ptr)$/;"	f
+Delete_Adjust_leaf	b++.cpp	/^void Delete_Adjust_leaf(BPTree *ptree,BPNode *&ptr)$/;"	f
+Find	b++.cpp	/^Result Find(BPNode *ptr,KeyType kx)$/;"	f
+FindFirst	b++.cpp	/^Result FindFirst(BPNode *ptr,KeyType kx)$/;"	f
+FindRoot	b++.cpp	/^Result FindRoot(BPNode *ptr,KeyType kx)$/;"	f
+Findpa	b++.cpp	/^Result Findpa(BPNode *ptr,KeyType kx)$/;"	f
+Findvalue	b++.cpp	/^Result Findvalue(BPNode *ptr,KeyType kx)$/;"	f
+Init_BPTree	b++.cpp	/^void Init_BPTree(BPTree *ptree)$/;"	f
+Inorder	b++.cpp	/^void Inorder(BPTree *ptr)$/;"	f
+Insert	b++.cpp	/^bool Insert(BPTree *ptree,KeyType kx,Record *rec)$/;"	f
+Insert_Brch_Item	b++.cpp	/^void Insert_Brch_Item(BPNode *p,KeyType kx,BPNode *s)$/;"	f
+Insert_Leaf_Item	b++.cpp	/^void Insert_Leaf_Item(BPNode *ptr,int pos,KeyType kx,Record *rec)$/;"	f
+KeyType	b++.cpp	/^typedef int KeyType;$/;"	t	file:
+LEAF	b++.cpp	/^typedef enum{LEAF = 0,BRCH = 1} NodeType;$/;"	e	enum:__anon1	file:
+LEAFMAX	b++.cpp	17;"	d	file:
+LEAFMIN	b++.cpp	18;"	d	file:
+M	b++.cpp	16;"	d	file:
+Move_Brch	b++.cpp	/^KeyType Move_Brch(BPNode *ptr,BPNode *s)$/;"	f
+Move_Brch_left	b++.cpp	/^void Move_Brch_left(BPNode *ptr,int pos,int bg = 0)$/;"	f
+Move_Brch_right	b++.cpp	/^void Move_Brch_right(BPNode *ptr,int pos,BPNode *s)$/;"	f
+Move_Leaf_left	b++.cpp	/^void Move_Leaf_left(BPNode *ptr,int pos)$/;"	f
+Move_Leaf_n	b++.cpp	/^KeyType Move_Leaf_n(BPNode *ptr,BPNode *s)$/;"	f
+Move_Leaf_p	b++.cpp	/^void Move_Leaf_p(BPNode *p,BPNode *s)$/;"	f
+Move_Leaf_right	b++.cpp	/^void Move_Leaf_right(BPNode *ptr,int pos)$/;"	f
+NodeType	b++.cpp	/^typedef enum{LEAF = 0,BRCH = 1} NodeType;$/;"	t	typeref:enum:__anon1	file:
+Record	b++.cpp	/^typedef struct {}Record;$/;"	t	typeref:struct:__anon2	file:
+Remove	b++.cpp	/^bool Remove(BPTree *ptree,KeyType kx)$/;"	f
+Remove_move_leaf_to_leaf	b++.cpp	/^void Remove_move_leaf_to_leaf(BPNode *p,BPNode *s)$/;"	f
+Result	b++.cpp	/^}Result;$/;"	t	typeref:struct:__anon6	file:
+Splice_Breh	b++.cpp	/^void Splice_Breh(BPTree *ptr,BPNode *p)$/;"	f
+Splice_Leaf	b++.cpp	/^void Splice_Leaf(BPTree *ptr,BPNode *p)$/;"	f
+_BuyLeaf	b++.cpp	/^BPNode * _BuyLeaf()$/;"	f
+_Buynode	b++.cpp	/^BPNode * _Buynode()$/;"	f
+_Freenode	b++.cpp	/^void _Freenode(BPNode *p)$/;"	f
+data	b++.cpp	/^	KeyType data[M+1];$/;"	m	struct:BPNode	file:
+first	b++.cpp	/^	BPNode *first;$/;"	m	struct:__anon5	file:
+index	b++.cpp	/^	int    index;$/;"	m	struct:__anon6	file:
+main	b++.cpp	/^int main()$/;"	f
+myt	b++.cpp	/^BPTree myt;$/;"	v
+next	b++.cpp	/^	BPNode *prev,*next;$/;"	m	struct:BPNode	file:
+num	b++.cpp	/^	int num;$/;"	m	struct:BPNode	file:
+parent	b++.cpp	/^	BPNode *parent;$/;"	m	struct:BPNode	file:
+pnode	b++.cpp	/^	BPNode *pnode;$/;"	m	struct:__anon6	file:
+prev	b++.cpp	/^	BPNode *prev,*next;$/;"	m	struct:BPNode	file:
+recptr	b++.cpp	/^			Record *recptr[M+1];$/;"	m	struct:BPNode::__anon3::__anon4	file:
+root	b++.cpp	/^	BPNode *root;$/;"	m	struct:__anon5	file:
+sub	b++.cpp	/^		BPNode *sub[M+1];$/;"	m	union:BPNode::__anon3	file:
+tag	b++.cpp	/^	bool   tag;$/;"	m	struct:__anon6	file:
+utype	b++.cpp	/^	NodeType utype;$/;"	m	struct:BPNode	file:
