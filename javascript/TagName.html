@@ -1,0 +1,46 @@
+<!--****************************************************************************
+* File Name: TagName.html
+* Author:zxb@zxb-ubuntu-cracker
+* mail: zxb@zxb-ubuntu-cracker.com
+* Created Time: 2016年07月11日 星期一 20时41分47秒
+*************************************************************************-->
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>getElementsByTagName </title>
+	  <style>
+	 	div {
+			width:200px;
+			height:200px;
+			float:left;
+			border:1px solid black;
+			margin:10px;
+		}
+	  </style>	
+	  <script>
+	  window.onload=function ()
+	  {
+		  var aDiv=document.getElementsByTagName('div');
+      /*for(var i=0;i < aDiv.length;++i)
+			{
+				aDiv[i].style.background='red';
+			}*/
+			var i = 0;
+			while(i < aDiv.length)
+			{
+				aDiv[i].style.background='red';
+				alert(i);
+				i++;
+			}
+	  }
+		</script>
+	</head>
+	<body>
+		<div></div>
+		<div></div>
+		<div></div>
+		<div></div>
+	</body>
+</html>

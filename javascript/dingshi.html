@@ -1,0 +1,38 @@
+<!--****************************************************************************
+* File Name: dingshi.html
+* Author:zxb@zxb-ubuntu-cracker
+* mail: zxb@zxb-ubuntu-cracker.com
+* Created Time: 2016年07月13日 星期三 19时21分47秒
+*************************************************************************-->
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+   <title> </title>
+		<script>
+		window.onload=function ()
+		{
+			var oBtn1=document.getElementById('btn1');
+			var oBtn2=document.getElementById('btn2');
+			var timer=null;
+
+			oBtn1.onclick=function ()
+			{
+				timer=setInterval(function () {
+					alert('a');
+				},1000);
+			};
+
+			oBtn2.onclick=function ()
+			{
+				clearInterval(timer);
+			};
+		};
+		</script>
+	</head>
+	<body>
+		<input id="btn1" type="button" value="开启" />
+		<input id="btn2" type="button" value="关闭" />
+	</body>
+</html>

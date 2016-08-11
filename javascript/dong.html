@@ -1,0 +1,34 @@
+<!--****************************************************************************
+* File Name: dong.html
+* Author:zxb@zxb-ubuntu-cracker
+* mail: zxb@zxb-ubuntu-cracker.com
+* Created Time: 2016年07月14日 星期四 08时11分20秒
+*************************************************************************-->
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+   <title> </title>
+	 <style>
+	 #div1 {
+		 width:200px; 
+		 height:200px; 
+		 background:red; 
+		 position:absolute; 
+		 left:0;
+		 top:50px;
+	 }
+	 </style>
+		<script>
+		setInterval(function () {
+			var oDiv=document.getElementById('div1');
+			oDiv.style.left=oDiv.offsetLeft+10+'px';
+		},30);
+		</script>
+	</head>
+	<body>
+		<div id="div1">
+		</div>
+	</body>
+</html>

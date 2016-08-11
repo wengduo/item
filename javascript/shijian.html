@@ -1,0 +1,36 @@
+<!--****************************************************************************
+* File Name: shijian.html
+* Author:zxb@zxb-ubuntu-cracker
+* mail: zxb@zxb-ubuntu-cracker.com
+* Created Time: 2016年07月11日 星期一 14时18分41秒
+*************************************************************************-->
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+		<title>变色</title>
+		<style>
+		#div1 {
+			width:200px;
+			height:200px;
+			background:red;
+		}
+		</style>
+		<script>
+		function toColor(s)
+		{
+			var oDiv=document.getElementById('div1');
+			oDiv.style.background = s;
+		}
+
+		</script>
+	</head>
+	<body>
+		<input type="button" value="变绿" onclick="toColor('green')"/>
+		<input type="button" value="变黄" onclick="toColor('yellow')">
+		<input type="button" value="变黑" onclick="toColor('black')">
+		<div id="div1">
+		</div>
+	</body>
+</html>

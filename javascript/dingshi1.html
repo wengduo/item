@@ -1,0 +1,43 @@
+<!--****************************************************************************
+* File Name: dingshi1.html
+* Author:zxb@zxb-ubuntu-cracker
+* mail: zxb@zxb-ubuntu-cracker.com
+* Created Time: 2016年07月13日 星期三 22时12分01秒
+*************************************************************************-->
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+   <title> </title>
+	 <style>
+	 div {float:left; margin:10px}
+   #div1 {width:50px; height:50px; background:red;}
+   #div2 {width:250px; height:180px; background:#CCC; display:none;}
+	 </style>
+		<script>
+		window.onload=function ()
+		{
+			var oDiv1=document.getElementById('div1');
+			var oDiv2=document.getElementById('div2');
+			var timer=null;
+
+			oDiv2.onmouseover=oDiv1.onmouseover=function ()
+			{
+				clearTimeout(timer);
+				oDiv2.style.display='block';
+			};
+			oDiv2.onmouseout=oDiv1.onmouseout=function ()
+			{
+				timer=setTimeout(function () {
+					oDiv2.style.display='none';
+				},500);
+			};
+		};
+		</script>
+	</head>
+	<body>
+		<div id="div1"></div>
+		<div id="div2"></div>
+	</body>
+</html>
