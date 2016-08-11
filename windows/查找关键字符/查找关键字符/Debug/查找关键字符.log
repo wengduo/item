@@ -1,0 +1,14 @@
+﻿生成启动时间为 2015/10/7 21:09:32。
+     1>项目“F:\查找关键字符\查找关键字符\查找关键字符.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\vs2013\VC\bin\CL.exe /c /I"E:\VS2013\Visual Leak Detector\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>f:\查找关键字符\查找关键字符\main.cpp(128): warning C4715: “my_find”: 不是所有的控件路径都返回值
+       Link:
+         F:\vs2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\查找关键字符\Debug\查找关键字符.exe" /INCREMENTAL /NOLOGO /LIBPATH:"E:\VS2013\Visual Leak Detector\lib\Win32" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\查找关键字符\Debug\查找关键字符.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\查找关键字符\Debug\查找关键字符.lib" /MACHINE:X86 Debug\main.obj
+         查找关键字符.vcxproj -> F:\查找关键字符\Debug\查找关键字符.exe
+     1>已完成生成项目“F:\查找关键字符\查找关键字符\查找关键字符.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.56

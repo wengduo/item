@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "XG0506_DS_0913_TRIP", "XG0506_DS_0913_TRIP\XG0506_DS_0913_TRIP.vcproj", "{33ACCDD4-E399-4B34-83CD-9B9D09184ABB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33ACCDD4-E399-4B34-83CD-9B9D09184ABB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{33ACCDD4-E399-4B34-83CD-9B9D09184ABB}.Debug|Win32.Build.0 = Debug|Win32
+		{33ACCDD4-E399-4B34-83CD-9B9D09184ABB}.Release|Win32.ActiveCfg = Release|Win32
+		{33ACCDD4-E399-4B34-83CD-9B9D09184ABB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,28 @@
+﻿生成启动时间为 2015/8/8 23:41:52。
+     1>项目“F:\c程序\求爱\求爱\求爱Component\求爱Component.vcxproj”在节点 2 上(Build 个目标)。
+     1>FxCompile:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\fxc.exe /nologo /E"main" /T ps_4_0_level_9_3 /Fo "F:\c程序\求爱\Debug\求爱Component\SimplePixelShader.cso" /Zi SimplePixelShader.hlsl 
+         compilation object save succeeded; see F:\c绋嬪簭\姹傜埍\Debug\姹傜埍Component\SimplePixelShader.cso
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\fxc.exe /nologo /E"main" /T vs_4_0_level_9_3 /Fo "F:\c程序\求爱\Debug\求爱Component\SimpleVertexShader.cso" /Zi SimpleVertexShader.hlsl 
+         compilation object save succeeded; see F:\c绋嬪簭\姹傜埍\Debug\姹傜埍Component\SimpleVertexShader.cso
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\WPSDK\WP80\bin\CL.exe /c /I"F:\c程序\求爱\求爱\求爱Component\\" /I"Generated Files\\" /IDebug\ /AI"C:\Program Files (x86)\Windows Phone Kits\8.0\Windows Metadata" /ZI /ZW /ZW:nostdlib /nologo /W3 /WX- /sdl /MP /Od /Oy- /D _WINRT_DLL /D _WINDLL /D _UNICODE /D UNICODE /D _DEBUG /D WINAPI_FAMILY=WINAPI_FAMILY_PHONE_APP /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"pch.h" /Fp"Debug\求爱Component.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /FU"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\WPSDK\WP80\lib\platform.winmd" /FU"C:\Program Files (x86)\Windows Phone Kits\8.0\Windows Metadata\Windows.winmd" /analyze- /errorReport:prompt pch.cpp
+         pch.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\WPSDK\WP80\bin\CL.exe /c /I"F:\c程序\求爱\求爱\求爱Component\\" /I"Generated Files\\" /IDebug\ /AI"C:\Program Files (x86)\Windows Phone Kits\8.0\Windows Metadata" /ZI /ZW /ZW:nostdlib /nologo /W3 /WX- /sdl /MP /Od /Oy- /D _WINRT_DLL /D _WINDLL /D _UNICODE /D UNICODE /D _DEBUG /D WINAPI_FAMILY=WINAPI_FAMILY_PHONE_APP /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"pch.h" /Fp"Debug\求爱Component.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /FU"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\WPSDK\WP80\lib\platform.winmd" /FU"C:\Program Files (x86)\Windows Phone Kits\8.0\Windows Metadata\Windows.winmd" /analyze- /errorReport:prompt "求爱Component.cpp" CubeRenderer.cpp Direct3DBase.cpp Direct3DContentProvider.cpp
+         求爱Component.cpp
+         CubeRenderer.cpp
+         Direct3DBase.cpp
+         Direct3DContentProvider.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\WPSDK\WP80\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\c程序\求爱\Debug\求爱Component\求爱Component.dll" /INCREMENTAL /NOLOGO d3d11.lib WindowsPhoneCore.lib RuntimeObject.lib PhoneAppModelHost.lib /NODEFAULTLIB:ole32.lib /MANIFEST:NO /DEBUG /PDB:"F:\c程序\求爱\Debug\求爱Component\求爱Component.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /WINMD /WINMDFILE:"F:\c程序\求爱\Debug\求爱Component\PhoneDirect3DXamlAppComponent.winmd" /DYNAMICBASE /NXCOMPAT /MACHINE:X86 /DLL "Debug\求爱Component.obj"
+         Debug\CubeRenderer.obj
+         Debug\Direct3DBase.obj
+         Debug\Direct3DContentProvider.obj
+         Debug\pch.obj
+            正在创建库 F:\c程序\求爱\Debug\求爱Component\求爱Component.lib 和对象 F:\c程序\求爱\Debug\求爱Component\求爱Component.exp
+         求爱Component.vcxproj -> F:\c程序\求爱\Debug\求爱Component\求爱Component.dll
+     1>已完成生成项目“F:\c程序\求爱\求爱\求爱Component\求爱Component.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:19.19

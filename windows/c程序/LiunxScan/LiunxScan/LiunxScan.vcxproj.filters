@@ -1,0 +1,1250 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="G:\计算机书\bash-4.2\alias.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\array.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\arrayfunc.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\assoc.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\bashhist.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\bashline.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\bracecomp.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\braces.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\builtins\bashgetopt.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\builtins\common.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\builtins\evalfile.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\builtins\evalstring.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\builtins\getopt.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\builtins\mkbuiltins.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\builtins\psize.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\copy_cmd.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\CWRU\misc\errlist.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\CWRU\misc\open-files.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\CWRU\misc\sigs.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\CWRU\misc\sigstat.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\dispose_cmd.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\error.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\eval.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\examples\loadables\basename.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\examples\loadables\cat.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\examples\loadables\cut.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\examples\loadables\dirname.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\examples\loadables\finfo.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\examples\loadables\getconf.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\examples\loadables\head.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\examples\loadables\hello.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\examples\loadables\id.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\examples\loadables\ln.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\examples\loadables\logname.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\examples\loadables\mkdir.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\examples\loadables\mypid.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\examples\loadables\necho.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\examples\loadables\pathchk.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\examples\loadables\perl\bperl.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\examples\loadables\perl\iperl.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\examples\loadables\print.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\examples\loadables\printenv.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\examples\loadables\push.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\examples\loadables\realpath.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\examples\loadables\rmdir.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\examples\loadables\sleep.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\examples\loadables\strftime.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\examples\loadables\sync.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\examples\loadables\tee.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\examples\loadables\template.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\examples\loadables\truefalse.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\examples\loadables\tty.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\examples\loadables\uname.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\examples\loadables\unlink.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\examples\loadables\whoami.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\execute_cmd.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\expr.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\findcmd.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\flags.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\general.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\hashcmd.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\hashlib.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\input.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\jobs.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\glob\glob.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\glob\glob_loop.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\glob\gmisc.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\glob\smatch.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\glob\sm_loop.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\glob\strmatch.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\glob\xmbsrtowcs.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\intl\bindtextdom.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\intl\dcgettext.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\intl\dcigettext.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\intl\dcngettext.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\intl\dgettext.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\intl\dngettext.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\intl\explodename.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\intl\finddomain.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\intl\gettext.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\intl\intl-compat.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\intl\l10nflist.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\intl\loadmsgcat.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\intl\localcharset.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\intl\localealias.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\intl\localename.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\intl\log.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\intl\ngettext.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\intl\os2compat.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\intl\osdep.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\intl\plural-exp.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\intl\plural.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\intl\relocatable.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\intl\textdomain.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\malloc\alloca.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\malloc\malloc.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\malloc\stats.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\malloc\stub.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\malloc\table.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\malloc\trace.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\malloc\watch.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\malloc\xmalloc.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\readline\bind.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\readline\callback.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\readline\compat.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\readline\complete.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\readline\display.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\readline\emacs_keymap.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\readline\examples\excallback.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\readline\examples\fileman.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\readline\examples\histexamp.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\readline\examples\manexamp.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\readline\examples\rl.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\readline\examples\rlcat.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\readline\examples\rltest.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\readline\funmap.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\readline\histexpand.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\readline\histfile.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\readline\history.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\readline\histsearch.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\readline\input.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\readline\isearch.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\readline\keymaps.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\readline\kill.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\readline\macro.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\readline\mbutil.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\readline\misc.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\readline\nls.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\readline\parens.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\readline\readline.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\readline\rltty.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\readline\savestring.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\readline\search.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\readline\shell.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\readline\signals.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\readline\terminal.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\readline\text.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\readline\tilde.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\readline\undo.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\readline\util.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\readline\vi_keymap.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\readline\vi_mode.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\readline\xfree.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\readline\xmalloc.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\sh\casemod.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\sh\clktck.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\sh\clock.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\sh\dprintf.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\sh\eaccess.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\sh\fmtullong.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\sh\fmtulong.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\sh\fmtumax.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\sh\fnxform.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\sh\fpurge.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\sh\getcwd.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\sh\getenv.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\sh\inet_aton.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\sh\input_avail.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\sh\itos.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\sh\mailstat.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\sh\makepath.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\sh\mbscasecmp.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\sh\mbschr.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\sh\mbscmp.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\sh\memset.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\sh\mktime.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\sh\netconn.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\sh\netopen.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\sh\oslib.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\sh\pathcanon.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\sh\pathphys.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\sh\rename.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\sh\setlinebuf.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\sh\shmatch.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\sh\shmbchar.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\sh\shquote.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\sh\shtty.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\sh\snprintf.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\sh\spell.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\sh\strcasecmp.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\sh\strcasestr.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\sh\strchrnul.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\sh\strerror.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\sh\strftime.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\sh\stringlist.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\sh\stringvec.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\sh\strnlen.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\sh\strpbrk.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\sh\strstr.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\sh\strtod.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\sh\strtoimax.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\sh\strtol.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\sh\strtoll.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\sh\strtoul.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\sh\strtoull.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\sh\strtoumax.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\sh\strtrans.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\sh\times.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\sh\timeval.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\sh\tmpfile.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\sh\uconvert.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\sh\ufuncs.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\sh\unicode.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\sh\vprint.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\sh\wcsdup.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\sh\wcswidth.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\sh\winsize.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\sh\zcatfd.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\sh\zgetline.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\sh\zmapfd.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\sh\zread.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\sh\zwrite.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\termcap\termcap.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\termcap\tparam.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\termcap\version.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\tilde\shell.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\lib\tilde\tilde.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\list.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\locale.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\mailcheck.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\make_cmd.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\mksyntax.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\nojobs.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\pathexp.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\pcomplete.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\pcomplib.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\print_cmd.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\redir.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\shell.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\sig.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\siglist.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\stringlib.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\subst.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\support\bashversion.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\support\man2html.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\support\mksignames.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\support\printenv.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\support\recho.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\support\signames.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\support\xcase.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\support\zecho.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\test.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\trap.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\unwind_prot.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\variables.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\version.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\xmalloc.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="G:\计算机书\bash-4.2\y.tab.c">
+      <Filter>头文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="G:\计算机书\bash-4.2\alias.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\array.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\arrayfunc.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\assoc.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\bashansi.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\bashhist.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\bashintl.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\bashjmp.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\bashline.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\bashtypes.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\builtins\bashgetopt.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\builtins\common.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\builtins\getopt.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\builtins.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\command.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\config-bot.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\config-top.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\conftypes.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\CWRU\misc\hpux10-dlfcn.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\dispose_cmd.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\error.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\examples\loadables\getconf.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\execute_cmd.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\externs.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\findcmd.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\flags.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\general.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\hashcmd.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\hashlib.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\include\ansi_stdlib.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\include\chartypes.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\include\filecntl.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\include\gettext.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\include\maxpath.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\include\memalloc.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\include\ocache.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\include\posixdir.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\include\posixjmp.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\include\posixselect.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\include\posixstat.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\include\posixtime.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\include\posixwait.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\include\shmbchar.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\include\shmbutil.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\include\shtty.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\include\stdc.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\include\systimes.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\include\typemax.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\include\unionwait.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\input.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\jobs.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\lib\glob\collsyms.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\lib\glob\glob.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\lib\glob\ndir.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\lib\glob\strmatch.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\lib\intl\eval-plural.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\lib\intl\gettextP.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\lib\intl\gmo.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\lib\intl\hash-string.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\lib\intl\loadinfo.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\lib\intl\localcharset.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\lib\intl\os2compat.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\lib\intl\plural-exp.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\lib\intl\relocatable.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\lib\malloc\getpagesize.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\lib\malloc\imalloc.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\lib\malloc\mstats.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\lib\malloc\shmalloc.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\lib\malloc\table.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\lib\malloc\watch.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\lib\readline\ansi_stdlib.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\lib\readline\chardefs.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\lib\readline\histlib.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\lib\readline\history.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\lib\readline\keymaps.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\lib\readline\posixdir.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\lib\readline\posixjmp.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\lib\readline\posixselect.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\lib\readline\posixstat.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\lib\readline\readline.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\lib\readline\rlconf.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\lib\readline\rldefs.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\lib\readline\rlmbutil.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\lib\readline\rlprivate.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\lib\readline\rlshell.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\lib\readline\rlstdc.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\lib\readline\rltty.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\lib\readline\rltypedefs.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\lib\readline\rlwinsize.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\lib\readline\tcap.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\lib\readline\tilde.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\lib\readline\xmalloc.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\lib\termcap\ltcap.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\lib\termcap\termcap.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\lib\tilde\tilde.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\mailcheck.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\make_cmd.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\parser.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\patchlevel.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\pathexp.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\pcomplete.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\quit.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\redir.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\shell.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\sig.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\siglist.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\subst.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\syntax.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\test.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\trap.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\unwind_prot.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\variables.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\xmalloc.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="G:\计算机书\bash-4.2\y.tab.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="G:\计算机书\bash-4.2\builtins\alias.def">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="G:\计算机书\bash-4.2\builtins\bind.def">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="G:\计算机书\bash-4.2\builtins\break.def">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="G:\计算机书\bash-4.2\builtins\builtin.def">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="G:\计算机书\bash-4.2\builtins\caller.def">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="G:\计算机书\bash-4.2\builtins\cd.def">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="G:\计算机书\bash-4.2\builtins\colon.def">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="G:\计算机书\bash-4.2\builtins\command.def">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="G:\计算机书\bash-4.2\builtins\complete.def">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="G:\计算机书\bash-4.2\builtins\declare.def">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="G:\计算机书\bash-4.2\builtins\echo.def">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="G:\计算机书\bash-4.2\builtins\enable.def">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="G:\计算机书\bash-4.2\builtins\eval.def">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="G:\计算机书\bash-4.2\builtins\exec.def">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="G:\计算机书\bash-4.2\builtins\exit.def">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="G:\计算机书\bash-4.2\builtins\fc.def">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="G:\计算机书\bash-4.2\builtins\fg_bg.def">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="G:\计算机书\bash-4.2\builtins\getopts.def">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="G:\计算机书\bash-4.2\builtins\hash.def">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="G:\计算机书\bash-4.2\builtins\help.def">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="G:\计算机书\bash-4.2\builtins\history.def">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="G:\计算机书\bash-4.2\builtins\inlib.def">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="G:\计算机书\bash-4.2\builtins\jobs.def">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="G:\计算机书\bash-4.2\builtins\kill.def">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="G:\计算机书\bash-4.2\builtins\let.def">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="G:\计算机书\bash-4.2\builtins\mapfile.def">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="G:\计算机书\bash-4.2\builtins\printf.def">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="G:\计算机书\bash-4.2\builtins\pushd.def">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="G:\计算机书\bash-4.2\builtins\read.def">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="G:\计算机书\bash-4.2\builtins\reserved.def">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="G:\计算机书\bash-4.2\builtins\return.def">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="G:\计算机书\bash-4.2\builtins\set.def">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="G:\计算机书\bash-4.2\builtins\setattr.def">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="G:\计算机书\bash-4.2\builtins\shift.def">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="G:\计算机书\bash-4.2\builtins\shopt.def">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="G:\计算机书\bash-4.2\builtins\source.def">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="G:\计算机书\bash-4.2\builtins\suspend.def">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="G:\计算机书\bash-4.2\builtins\test.def">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="G:\计算机书\bash-4.2\builtins\times.def">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="G:\计算机书\bash-4.2\builtins\trap.def">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="G:\计算机书\bash-4.2\builtins\type.def">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="G:\计算机书\bash-4.2\builtins\ulimit.def">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="G:\计算机书\bash-4.2\builtins\umask.def">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="G:\计算机书\bash-4.2\builtins\wait.def">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="G:\计算机书\bash-4.2\doc\bash.html">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="G:\计算机书\bash-4.2\doc\bashref.html">
+      <Filter>头文件</Filter>
+    </None>
+    <None Include="G:\计算机书\bash-4.2\examples\INDEX.html">
+      <Filter>头文件</Filter>
+    </None>
+  </ItemGroup>
+</Project>
