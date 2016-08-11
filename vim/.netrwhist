@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/essity/myfile/struct'
+let g:netrw_dirhist_2='/home/essity/Templates/vim'
+let g:netrw_dirhist_3='/home/essity/myfile/mydir2015/kless0809'
+let g:netrw_dirhist_4='/home/wengduo/.vim'
